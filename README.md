@@ -1,16 +1,19 @@
-# url_launcher_demo
+# URL Launcher with Maps Demo
 
-A new Flutter project.
+## Description:
+This project serves as an example that combines URL launching, Google Maps integration, and Custom Tabs functionality.
 
-## Getting Started
+  - This example project showcases the following:
+    - Check & open the URL in the in-app web view.
+    - Check & open the URL in the external app.
+    - Check & open the URL in the custom tabs.
+    - Check & open the phone dialer app.
+    - Check & open the phone email app.
+    - Check & open the phone SMS app.
+    - Check & open the map (using a search query).
+    - Check & open the map (using a map co-ordinate).
 
-This project is a starting point for a Flutter application.
+Important: Occasionally, Google Maps (on Android) may fail to load properly in emulators. If you encounter this problem, consider running the app on a physical device as an alternative.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Preview
+![alt text](https://i.postimg.cc/vmcHZQRw/imgonline-com-ua-twotoone-op5zg-Sw--Cdqi-Th9.png "img")
